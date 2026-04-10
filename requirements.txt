@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+joblib
+matplotlib
+seaborn
+scikit-learn
+pyarrow
