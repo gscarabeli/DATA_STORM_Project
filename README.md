@@ -101,15 +101,12 @@ Transformação dos resultados em valor estratégico para gestores de saúde pú
 
 ## 📺 Apresentação e Demonstração
 
-> 🎥 **[ASSISTIR AO VÍDEO DO PITCH (2 MIN)](LINK_DO_VIDEO_AQUI)**
-> *Resumo do problema, metodologia, demonstração do dashboard e impacto social da solução.*
+<!-- > 🎥 **[ASSISTIR AO VÍDEO DO PITCH (2 MIN)](LINK_DO_VIDEO_AQUI)**
+> *Resumo do problema, metodologia, demonstração do dashboard e impacto social da solução.* -->
 
-> 🤖 **[ACESSAR AGENTE DE INSIGHTS — GOOGLE AI STUDIO](LINK_DO_STUDIO_AQUI)**
+> 🤖 **[ACESSAR AGENTE DE INSIGHTS — GOOGLE AI STUDIO](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2215AI09-lKM3wcd-DiZ0sE-SGTlMGtpYYK%22%5D,%22action%22:%22open%22,%22userId%22:%22104313013169065559048%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)**
 > *Interaja com a IA especializada em epidemiologia de sífilis congênita para análise
 > dos dados e geração de planos de ação em saúde pública.*
-
-> 📊 **[ACESSAR DASHBOARD (se publicado)](LINK_DO_DASHBOARD_AQUI)**
-> *Dashboard interativo com visualizações OLAP dos dados SINAN-MG 2010–2026.*
 
 ---
 
