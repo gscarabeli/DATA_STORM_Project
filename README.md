@@ -108,6 +108,9 @@ Transformação dos resultados em valor estratégico para gestores de saúde pú
 > *Interaja com a IA especializada em epidemiologia de sífilis congênita para análise
 > dos dados e geração de planos de ação em saúde pública.*
 
+> 📊 **[ACESSAR DASHBOARD](https://datastormproject.streamlit.app/)**
+> *Dashboard interativo com visualizações OLAP dos dados SINAN-MG 2010–2026.*
+
 ---
 
 ## 🛠️ Como Reproduzir
