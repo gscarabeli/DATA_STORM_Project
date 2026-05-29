@@ -184,5 +184,5 @@ A ferramenta desenvolvida permite que gestores de saúde pública:
 <p align="center">
   <img src="https://faculdadesalvadorarena.org.br/wp-content/uploads/2022/07/logo_fesa.png" width="180" alt="Logo FESA"><br>
   <b>Faculdade Engenheiro Salvador Arena</b><br>
-  Curso de Engenharia de Computação · Março de 2026
+  Curso de Engenharia de Computação · Maio de 2026
 </p>
