@@ -101,8 +101,8 @@ Transformação dos resultados em valor estratégico para gestores de saúde pú
 
 ## 📺 Apresentação e Demonstração
 
-[<!-- > 🎥 **[ASSISTIR AO VÍDEO DO PITCH (2 MIN)](https://youtu.be/teO4O1Yxsbg)**
-> *Resumo do problema, metodologia, demonstração do dashboard e impacto social da solução.* -->](url)
+[ 🎥 **[ASSISTIR AO VÍDEO DO PITCH (2 MIN)](https://youtu.be/teO4O1Yxsbg)**
+> *Resumo do problema, metodologia, demonstração do dashboard e impacto social da solução.*
 
 > 🤖 **[ACESSAR AGENTE DE INSIGHTS — GOOGLE AI STUDIO](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2215AI09-lKM3wcd-DiZ0sE-SGTlMGtpYYK%22%5D,%22action%22:%22open%22,%22userId%22:%22104313013169065559048%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)**
 > *Interaja com a IA especializada em epidemiologia de sífilis congênita para análise
